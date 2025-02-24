@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Curso.Domain.Api.props" />
+</Project>

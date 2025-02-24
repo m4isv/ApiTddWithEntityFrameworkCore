@@ -1,0 +1,14 @@
+/home/masv/dev/Curso.Domain/bin/Debug/net9.0/Curso.Domain.deps.json
+/home/masv/dev/Curso.Domain/bin/Debug/net9.0/Curso.Domain.dll
+/home/masv/dev/Curso.Domain/bin/Debug/net9.0/Curso.Domain.pdb
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.AssemblyInfoInputs.cache
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.AssemblyInfo.cs
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.csproj.CoreCompileInputs.cache
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.dll
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/refint/Curso.Domain.dll
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.pdb
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/ref/Curso.Domain.dll
+/home/masv/dev/Curso.Domain/bin/Debug/net9.0/Curso.Domain.runtimeconfig.json
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.csproj.AssemblyReference.cache
+/home/masv/dev/Curso.Domain/obj/Debug/net9.0/Curso.Domain.genruntimeconfig.cache
