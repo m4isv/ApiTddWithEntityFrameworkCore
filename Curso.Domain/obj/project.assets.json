@@ -7712,11 +7712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/masv/dev/Curso.Domain/Curso.Domain.csproj",
+      "projectUniqueName": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain/Curso.Domain.csproj",
       "projectName": "Curso.Domain",
-      "projectPath": "/home/masv/dev/Curso.Domain/Curso.Domain.csproj",
+      "projectPath": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain/Curso.Domain.csproj",
       "packagesPath": "/home/masv/.nuget/packages/",
-      "outputPath": "/home/masv/dev/Curso.Domain/obj/",
+      "outputPath": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/masv/.nuget/NuGet/NuGet.Config"

@@ -7488,11 +7488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/masv/dev/Curso.Domain.Infra/Curso.Domain.Infra.csproj",
+      "projectUniqueName": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain.Infra/Curso.Domain.Infra.csproj",
       "projectName": "Curso.Domain.Infra",
-      "projectPath": "/home/masv/dev/Curso.Domain.Infra/Curso.Domain.Infra.csproj",
+      "projectPath": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain.Infra/Curso.Domain.Infra.csproj",
       "packagesPath": "/home/masv/.nuget/packages/",
-      "outputPath": "/home/masv/dev/Curso.Domain.Infra/obj/",
+      "outputPath": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain.Infra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/masv/.nuget/NuGet/NuGet.Config"
@@ -7507,8 +7507,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/masv/dev/Curso.Domain/Curso.Domain.csproj": {
-              "projectPath": "/home/masv/dev/Curso.Domain/Curso.Domain.csproj"
+            "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain/Curso.Domain.csproj": {
+              "projectPath": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain/Curso.Domain.csproj"
             }
           }
         }

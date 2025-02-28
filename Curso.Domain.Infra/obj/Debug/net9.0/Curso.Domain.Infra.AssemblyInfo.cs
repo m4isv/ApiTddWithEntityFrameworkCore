@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Curso.Domain.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e7438e57977d4fa79b3832587a9e642a1c362b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Curso.Domain.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Curso.Domain.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

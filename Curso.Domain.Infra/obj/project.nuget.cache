@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70PtKl0IIgA=",
+  "dgSpecHash": "Zh8DVs91I44=",
   "success": true,
-  "projectFilePath": "/home/masv/dev/Curso.Domain.Infra/Curso.Domain.Infra.csproj",
+  "projectFilePath": "/home/masv/ApiTddWithEntityFrameworkCore/Curso.Domain.Infra/Curso.Domain.Infra.csproj",
   "expectedPackageFiles": [
     "/home/masv/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/masv/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
